@@ -1,6 +1,8 @@
-package com.testing.controller;
+package com.ptp.testing.controller;
 
 import org.springframework.web.servlet.ModelAndView;
+
+import com.ptp.testing.controller.Hello;
 
 import junit.framework.TestCase;
 
