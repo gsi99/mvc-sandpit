@@ -1,7 +1,3 @@
-<%@ page session="false"%>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
-
 <html>  
 <head>  
 <script type="text/javascript" src="jquery-1.2.6.min.js"></script>  

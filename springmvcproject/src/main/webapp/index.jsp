@@ -9,6 +9,9 @@
         <h2>Being Java Guys | Hello World</h2>  
         <h4>  
             <a href="hello.htm">Click Here</a>  
+        </h4> 
+                <h4>  
+            <a href="summary.htm">Click Here</a>  
         </h4>  
     </center>  
 </body>  
