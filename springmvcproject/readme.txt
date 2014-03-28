@@ -9,4 +9,5 @@ Need to change this and get controller to display contents from spring-xd rest s
 * Build screens / dashboard
 * Adaptor to call Rest Svces.
 
-tESTING CONTROLLER  - 	gettingd errors due to wrong library versions
+Added bootstrap. Need to change inital pages to use bootstrap files.
+	http://getbootstrap.com/getting-started/
