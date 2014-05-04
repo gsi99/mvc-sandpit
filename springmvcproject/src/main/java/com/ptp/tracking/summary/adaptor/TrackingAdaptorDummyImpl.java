@@ -1,11 +1,15 @@
 package com.ptp.tracking.summary.adaptor;
 
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Controller;
+
 import com.ptp.tracking.summary.model.CustomerItemSummary;
 import com.ptp.tracking.summary.model.DeliveryDay;
 import com.ptp.tracking.summary.model.ItemSummary;
 import com.ptp.tracking.summary.model.ProductCode;
 import com.google.gson.Gson;
 
+@Component
 public class TrackingAdaptorDummyImpl implements TrackingAdaptor {
 	
 	public String getCustomerItemSummarys() {

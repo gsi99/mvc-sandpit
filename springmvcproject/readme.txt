@@ -1,3 +1,6 @@
+Pushed this repo to https://github.com/gsi99/second-mvc.git
+
+
 Start-up Tomcat and run.
 http://localhost:8080/springmvcproject/
 

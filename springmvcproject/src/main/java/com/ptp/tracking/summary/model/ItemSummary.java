@@ -1,6 +1,6 @@
 package com.ptp.tracking.summary.model;
 
-import com.oracle.jrockit.jfr.Producer;
+//import com.oracle.jrockit.jfr.Producer;
 
 public class ItemSummary {
 	
